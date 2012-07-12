@@ -110,8 +110,7 @@ mvn test
 
 Instructions to set up the dev environment in Eclipse
 -------------------------------------------------
-After copying crux in your eclipse project, please add all jars from crux/lib_test/ and
-crux/lib_test/run_time/ to your eclipse java build path libraries.
+After creating a new general project named crux in your eclipse project, please copy crux in your workspace.
 
 
 Crux Limitations
